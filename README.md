@@ -3,7 +3,7 @@
 - 🔭 I’m currently looking for an opportunity as a Data Analyst
 - 🌱 I'm currently studying for a MBA in Data Science and Analytics at USP/ESALQ.
 
-### 🖥️ Language and technologies
+### 🖥️ Languages and technologies
 
 
 <img
